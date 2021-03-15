@@ -19,4 +19,4 @@
 ***
 
 
-<img witdh="" height="" src="./png/고양이"></img>
+<img witdh="" height="" src="./png/고양이.png"></img>
